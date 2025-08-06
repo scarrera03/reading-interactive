@@ -205,9 +205,8 @@ Integrate the files into the project's static/audios/ folder.
 
 ## Contact
 
-Project developed by Silvina Carrera as part of the dissertation for the BSc Data Science and Computing degree – Birkbeck, University of London.
-Author: Silvina Carrera Scholz
+Project developed by Silvina Carrera 
 
-Email: scarre02@student.bbk.ac.uk
+Email: silvinacarrera87@gmail.com
 
 LinkedIn / linkedin.com/in/silvinacarrerascholz
