@@ -4,6 +4,14 @@
 
 It uses voice recognition to help users improve pronunciation and comprehension, adapting to each child’s skills and interests — including those with reading difficulties or disabilities.
 
+## Project Demo
+
+👉 [Download and watch the demo video](./13714971_Silvina_Carrera_Reading_Interactive_video.mp4)
+
+> *Note: GitHub cannot stream this file due to its size. Click the link to download it.*
+
+
+Feel free to explore the code and reach out for collaboration!
 ---
 
 ## Features
@@ -203,31 +211,3 @@ Author: Silvina Carrera Scholz
 Email: scarre02@student.bbk.ac.uk
 
 LinkedIn / linkedin.com/in/silvinacarrerascholz
-
-# Reading Interactive
-
-**Reading Interactive** is a web-based educational app designed to help children learn to read through play and interaction. It integrates speech recognition, storytelling, and real-time feedback to engage young learners.
-
-## Project Demo
-
-👉 [Download and watch the demo video](./13714971_Silvina_Carrera_Reading_Interactive_video.mp4)
-
-> *Note: GitHub cannot stream this file due to its size. Click the link to download it.*
-
-## Built With
-
-- Python (Flask)
-- HTML/CSS/JavaScript
-- Web Speech API
-- MySQL
-
-## Features
-
-- Interactive story reading
-- Real-time voice recognition
-- Keyword highlighting and feedback
-- Reading history tracking
-
----
-
-Feel free to explore the code and reach out for collaboration!
